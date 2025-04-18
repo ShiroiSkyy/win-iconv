@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.10)
+cmake_minimum_required(VERSION 3.10...4.0.1)
 project(win_iconv)
 
 set(CMAKE_DEBUG_POSTFIX "d")
